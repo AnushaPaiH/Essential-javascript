@@ -7,6 +7,9 @@ function initForm() {
 
 }
 function jumpPage() {
+	
+
+
 	var newLoc = document.getElementById("newLocation");
 	var newPage = this.options[this.selectedIndex].value;
 
